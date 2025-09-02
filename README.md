@@ -1,0 +1,2 @@
+# sendmailtool
+send mail batch
